@@ -1,0 +1,8 @@
+# executables
+*.exe
+
+# env files
+.env
+.env.local
+.env.development
+.env.production
